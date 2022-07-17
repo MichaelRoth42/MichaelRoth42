@@ -1,16 +1,29 @@
-### Hi there 👋
+![](https://github.com/MichaelRoth42/about-me/blob/main/LinkedIn_Header.png)
 
-<!--
-**MichaelRoth42/MichaelRoth42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Helloooo GitHub
+`Power Platform`
+`Governance`
+`Microsoft365`
+`Diversity`
+`SharingIsCaring`
 
-Here are some ideas to get you started:
+## What I am
+- 🚀Power Platform Consultant
+- 💻Microsoft 365 background
+- 💡all about people, processes and tech
+- ✨Microsoft MVP
+- 📚Crazy about learning
+- ❤️Kindness is my super power
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+Microsofts Power Platform promises to accelerate business processes, closing gaps between applications and business needs and empower employees. 
+
+I don’t only demonstrate achievable quick wins but focus on an overall strategy to sustainably implement the concept of continuous citizen development throughout the organisation.
+
+To achieve that I will introduce a detailed multi step plan covering/including re-evaluating and modernizing legacy processes, implementing a governance and security concept and enabling everyone to contribute to organizational objectives. This way Power Platform serves as a catalyst for employee’s productivity, by taking away repetitive tasks and freeing up time to focus on meaningful work.
+
+## What I think
+
+Let’s get rid of the bullshit jobs and keep focusing on what makes us irreplaceable: genuine human uniqueness, creativity and kindness 
+Every one of us is unique in their own special way and that leads to so many creative and wild solutions. I strongly believe that everyone can benefit if we include everybody. I want people to be able to contribute and express their ideas. 
