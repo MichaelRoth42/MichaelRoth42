@@ -1,4 +1,4 @@
-![](https://github.com/MichaelRoth42/about-me/blob/main/LinkedIn_Header.png)
+![](https://github.com/MichaelRoth42/MichaelRoth42/blob/main/LinkedIn_Header.png)
 
 # Helloooo GitHub
 `Power Platform`
