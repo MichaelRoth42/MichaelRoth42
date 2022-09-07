@@ -10,7 +10,7 @@
 ## What I am
 - 🚀Power Platform Consultant
 - 💻Microsoft 365 background
-- 💡all about people, processes and tech
+- 💡all about governance, organizational implementation and licensing
 - ✨Microsoft MVP
 - 📚Crazy about learning
 - ❤️Kindness is my super power
