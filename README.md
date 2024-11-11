@@ -1,29 +1,44 @@
-![](https://github.com/MichaelRoth42/MichaelRoth42/blob/main/LinkedIn_Header.png)
+## Let's talk about the fun stuff
 
-# Helloooo GitHub
-`Power Platform`
-`Governance`
-`Microsoft365`
-`Diversity`
-`SharingIsCaring`
+🚀 **Power Platform Governance & Security Specialist**  
+✨ **Microsoft MVP** | 🌌 Retro Synthwave Fan | 👾 Sci-Fi Misfit  
 
-## What I am
-- 🚀Power Platform Consultant
-- 💻Microsoft 365 background
-- 💡all about governance, organizational implementation and licensing
-- ✨Microsoft MVP
-- 📚Crazy about learning
-- ❤️Kindness is my super power
+---
 
-## What I do
+### What I Am
+- **Power Platform Consultant** with a knack for architecting governance and security frameworks  
+- Deep **Microsoft 365 background**—I know my way around the modern workplace  
+- Big believer in **diversity, sharing, and kindness**—I see these as core superpowers  
+- Lifelong learner: always leveling up on new tech and strategies  
 
-Microsofts Power Platform promises to accelerate business processes, closing gaps between applications and business needs and empower employees. 
+---
 
-I don’t only demonstrate achievable quick wins but focus on an overall strategy to sustainably implement the concept of continuous citizen development throughout the organisation.
+### What I Do
+Microsoft’s Power Platform promises to accelerate processes, close gaps between tools and business needs, and give employees the power to create. I go beyond the surface wins by designing sustainable, strategic plans for **continuous citizen development**. This approach isn’t just about quick wins—it’s about laying a solid foundation for scalable growth.  
 
-To achieve that I will introduce a detailed multi step plan covering/including re-evaluating and modernizing legacy processes, implementing a governance and security concept and enabling everyone to contribute to organizational objectives. This way Power Platform serves as a catalyst for employee’s productivity, by taking away repetitive tasks and freeing up time to focus on meaningful work.
+My multi-step approach includes:  
+- **Modernizing legacy processes** and rethinking the outdated  
+- **Implementing governance and security** so creators have freedom within a secure, structured environment  
+- **Empowering every individual** to contribute to organizational goals—building a community of creators who focus on what matters  
 
-## What I think
+With these strategies, Power Platform becomes more than a productivity tool; it’s a catalyst that frees up time for meaningful work by automating repetitive tasks.
 
-Let’s get rid of the bullshit jobs and keep focusing on what makes us irreplaceable: genuine human uniqueness, creativity and kindness 
-Every one of us is unique in their own special way and that leads to so many creative and wild solutions. I strongly believe that everyone can benefit if we include everybody. I want people to be able to contribute and express their ideas. 
+---
+
+### What I Believe
+Let’s get rid of the pointless, replaceable stuff and focus on what makes us **uniquely human**: creativity, kindness, and our personal quirks. Everyone brings a unique angle that drives innovative solutions. I’m all about including everyone in this journey, making room for all voices and ideas—because when everyone contributes, we all move forward together.
+
+---
+
+### Blog
+Check out my blog for insights on Power Platform, governance strategies, and tips for secure, scalable tech solutions:
+
+- **[PowerShell - Let's create custom objects](https://www.michaelroth42.com/post/2024-05-01-lets-create-custom-objects/)**
+- **[PowerShell - ISE, modules and roles](https://www.michaelroth42.com/post/2024-04-16-ise-modules-and-roles-copy/)**
+- **[Getting started with PowerShell - A Beginner's Guide](https://www.michaelroth42.com/post/2024-04-10-getting-started-with-powershell/)**
+- **[Understanding Power Platform Architecture](https://www.michaelroth42.com/post/2024-04-02-understanding-power-platform-architecture-copy/)**
+- **[What every Admin needs to know](https://www.michaelroth42.com/post/2024-03-19-what-every-admin-needs-to-know/)**
+- **[Become the best Power Platform Admin](https://www.michaelroth42.com/post/2023-09-07-become-the-best-power-platform-admin/)**
+- **Also check out my collaboration with Craig White and the Admin series: [PPAC Attack!](https://platformsofpower.net/ppac-attack/)**
+
+*More posts available on [my blog](https://www.michaelroth42.com/).*
