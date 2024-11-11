@@ -14,6 +14,8 @@
 
 ---
 
+![Static Badge](https://img.shields.io/badge/blsky-MichaelRoth42-blue?link=https%3A%2F%2Fbsky.app%2Fprofile%2Fmichael42.bsky.social)
+
 ### What I Do 🪄
 Microsoft’s Power Platform promises to accelerate processes, close gaps between tools and business needs, and give employees the power to create. I go beyond the surface wins by designing sustainable, strategic plans for **continuous citizen development**. This approach isn’t just about quick wins—it’s about laying a solid foundation for scalable growth.  
 
