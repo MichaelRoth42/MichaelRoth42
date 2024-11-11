@@ -1,7 +1,7 @@
 ## Let's talk about the fun stuff
 
 🚀 **Power Platform Governance & Security Specialist**  
-✨ **Microsoft MVP** | 🌌 Retro Synthwave Fan | 👾 Sci-Fi Misfit  
+✨ **Microsoft MVP** | 🏕️ **Outdooor Enthusiast** | 👾 **Sci-Fi Misfit** | 🎲 **BoardGame Geek** 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelRoth42&show_icons=true&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
 
