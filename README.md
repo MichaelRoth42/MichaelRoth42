@@ -4,6 +4,11 @@
 ✨ **Microsoft MVP** | 🌌 Retro Synthwave Fan | 👾 Sci-Fi Misfit  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelRoth42&show_icons=true&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Static Badge](https://img.shields.io/badge/MichaelRoth42-blue?logo=bluesky&labelColor=%232b2e2eff&color=%232157B5ff)](https://bsky.app/profile/michael42.bsky.social)
+[![Static Badge](https://img.shields.io/badge/MichaelRoth42-blue?logo=logmein&labelColor=%232b2e2eff&color=%232294EAff)](https://www.linkedin.com/in/michaelroth42/)
+[![Static Badge](https://img.shields.io/badge/MichaelRoth42-grey?logo=netlify&labelColor=%232b2e2eff&color=%2322b8b6ff)](https://www.michaelroth42.com/)
+
 ---
 
 ### What I Am
