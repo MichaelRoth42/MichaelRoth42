@@ -3,17 +3,18 @@
 🚀 **Power Platform Governance & Security Specialist**  
 ✨ **Microsoft MVP** | 🌌 Retro Synthwave Fan | 👾 Sci-Fi Misfit  
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelRoth42&show_icons=true&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### What I Am
-- **Power Platform Consultant** with a knack for architecting governance and security frameworks  
-- Deep **Microsoft 365 background**—I know my way around the modern workplace  
-- Big believer in **diversity, sharing, and kindness**—I see these as core superpowers  
-- Lifelong learner: always leveling up on new tech and strategies  
+- 🚀**Power Platform Consultant** with a knack for architecting governance and security frameworks  
+- 📚Deep **Microsoft 365 background**—I know my way around the modern workplace  
+- ❤️Big believer in **diversity, sharing, and kindness**—I see these as core superpowers  
+- 🤓Lifelong learner: always leveling up on new tech and strategies  
 
 ---
 
-### What I Do
+### What I Do 🪄
 Microsoft’s Power Platform promises to accelerate processes, close gaps between tools and business needs, and give employees the power to create. I go beyond the surface wins by designing sustainable, strategic plans for **continuous citizen development**. This approach isn’t just about quick wins—it’s about laying a solid foundation for scalable growth.  
 
 My multi-step approach includes:  
@@ -25,7 +26,7 @@ With these strategies, Power Platform becomes more than a productivity tool; it�
 
 ---
 
-### What I Believe
+### What I Believe 🌈
 Let’s get rid of the pointless, replaceable stuff and focus on what makes us **uniquely human**: creativity, kindness, and our personal quirks. Everyone brings a unique angle that drives innovative solutions. I’m all about including everyone in this journey, making room for all voices and ideas—because when everyone contributes, we all move forward together.
 
 ---
@@ -42,3 +43,6 @@ Check out my blog for insights on Power Platform, governance strategies, and tip
 - **Also check out my collaboration with Craig White and the Admin series: [PPAC Attack!](https://platformsofpower.net/ppac-attack/)**
 
 *More posts available on [my blog](https://www.michaelroth42.com/).*
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelRoth42&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
